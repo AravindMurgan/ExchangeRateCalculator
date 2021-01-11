@@ -1,0 +1,1 @@
+* A Simple Exchange rate calcultor which focuses on Basics on a Fetch API
